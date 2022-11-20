@@ -33,3 +33,10 @@
 
 ![imagen](https://user-images.githubusercontent.com/63190654/202896104-e767ab93-158e-4f0b-ac6d-3f960089a16b.png)
 
+- Como me interesa usar la opción teletransportarse, el comando a ejecutar es "Debug (3,0)" y también voy a usar la combinación de tecla CTRL + X.
+- Cambio la línea de código que se hace el screenshot por lo que se muestra a continuació.
+
+![imagen](https://user-images.githubusercontent.com/63190654/202896701-d5b60cd2-beb0-4233-8eb6-24046942b070.png)
+
+
+
