@@ -43,5 +43,29 @@
 ![imagen](https://user-images.githubusercontent.com/63190654/202905087-db4adff8-dc87-4309-98de-ab6b888fb454.png)
 
 - Pero como el juego tiene varios personajes, siempre queda activo el principal y el juego se vuelve loco.
-- Ahora tengo que pensar como hacerlo en código.
+- Ahora tengo que pensar como hacerlo en código. LO DEJO APARCADO DE MOMENTO
+
+## Traducción de variables %s
+
+En este juego se ve que se asigna valores a ***String***, por ejemplo:
+
+    String doctor = "healing";
+Entonces la traducción no funciona si usa una cadena de texto como la siguiente:
+
+> "The decision is %s"
+
+Mi solución ha sido querer sustituir el código anterior por:
+
+    String doctor = GetTraslation (“healing”);
+
+Así funciona correctamente.
+
+**NOTA:** Ahora escribiendo este documento he pensado que quizá lo ideal sería sustituir el código del juego donde se muestra el texto por este otro:
+
+    Display ("The decision is %s", doctor);
+
+por este otro:
+
+    Display ("The decision is %s", GetTraslation(doctor));
+
 
