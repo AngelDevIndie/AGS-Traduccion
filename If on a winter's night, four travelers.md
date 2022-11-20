@@ -38,5 +38,10 @@
 
 ![imagen](https://user-images.githubusercontent.com/63190654/202896701-d5b60cd2-beb0-4233-8eb6-24046942b070.png)
 
+- Funciona ahora...jejeje.
 
+![imagen](https://user-images.githubusercontent.com/63190654/202905087-db4adff8-dc87-4309-98de-ab6b888fb454.png)
+
+- Pero como el juego tiene varios personajes, siempre queda activo el principal y el juego se vuelve loco.
+- Ahora tengo que pensar como hacerlo en código.
 
