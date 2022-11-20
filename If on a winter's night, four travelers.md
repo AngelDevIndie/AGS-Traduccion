@@ -29,7 +29,7 @@
 ![imagen](https://user-images.githubusercontent.com/63190654/202896332-31f0842f-1f5f-4142-8693-570be9c70dfc.png)
 
 - Se ejecuta el comando "Debug (2,0)".
-- Y vemos que el color verde está el parámetro "2" para "Debug".
+- Y vemos que el color morado está el parámetro "2" para "Debug".
 
 ![imagen](https://user-images.githubusercontent.com/63190654/202896104-e767ab93-158e-4f0b-ac6d-3f960089a16b.png)
 
