@@ -20,6 +20,16 @@
 
 - El de color verde es la combinación de teclas. Miramos el manual del AGS para saber cuál corresponde.
 
-![imagen](https://user-images.githubusercontent.com/63190654/202896151-d1c3c0bd-29d7-4d5a-9bfd-c6e54a74ab97.png)
+![imagen](https://user-images.githubusercontent.com/63190654/202896210-eb659df2-9417-48df-aa56-1a96d81c6721.png)
 
 - Se puede ver que corresponde con Ctrl+A.
+
+- Recordemos que hacía.
+
+![imagen](https://user-images.githubusercontent.com/63190654/202896332-31f0842f-1f5f-4142-8693-570be9c70dfc.png)
+
+- Se ejecuta el comando "Debug (2,0)".
+- Y vemos que el color verde está el parámetro "2" para "Debug".
+
+![imagen](https://user-images.githubusercontent.com/63190654/202896104-e767ab93-158e-4f0b-ac6d-3f960089a16b.png)
+
