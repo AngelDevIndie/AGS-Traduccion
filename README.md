@@ -6,3 +6,6 @@ Entre otras cosas vamos a explicar:
 - GetTranslation
 - Edición del texto en crudo cuando se usa %s.
 - Edición hexadecimal.
+
+# TO-DO
+- Cuando activo el modo debug, solo funciona el CTRL + D, para que se pueda teletransportar, sustituir el código debug en el .s.
