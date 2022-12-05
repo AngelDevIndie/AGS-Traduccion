@@ -17,4 +17,5 @@ El el segundo bloque, el significado de cada valor es:
 
 Más abajo podemos ver un ejemplo comparando dos "ac2game.dat" que paso a explicar.
 
-![imagen](https://user-images.githubusercontent.com/63190654/203366744-1e288642-1a1f-4cac-a8f7-e60c7ae6f1af.png)
+![imagen](https://user-images.githubusercontent.com/63190654/205710106-1e44423f-dab8-4b95-b6eb-a134466a9c62.png)
+
