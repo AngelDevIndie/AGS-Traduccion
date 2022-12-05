@@ -9,3 +9,5 @@ Entre otras cosas vamos a explicar:
 
 # TO-DO
 - Cuando activo el modo debug, solo funciona el CTRL + D, para que se pueda teletransportar, sustituir el código debug en el .s.
+
+- Importar fuentes TTF al engine para intentar crear texto para los personajes. El 01 como fuente principal y el 02 como outline. Para ver si coge el outline bien.
