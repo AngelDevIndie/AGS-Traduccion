@@ -16,6 +16,11 @@
 - .
 - .
 - .
-- Cuando el juego use un engine **anterior a 2.72**, podemos usar un truco para ejecutarlo en el motor **3.5** y así poder usar funciones que no tengan en versiones anteriores, como por ejemplo: *outline automático en fuentes TTF*, *editar globalscript con **agstools***... Para ello se debe usar el programa *"App2Espa"*
+- Cuando el juego use un engine **anterior a 2.72**, podemos usar un truco para ejecutarlo en el motor **3.5** y así poder usar funciones que no tengan en versiones anteriores, como por ejemplo: *outline automático en fuentes TTF*, *editar globalscript con **agstools***... Para ello se debe usar el programa *"App2Espa"*. Que al parecer no es otra cosa  que el motor pelao y mondao. Y se puede usar otros motores que se vayan sacando.
 
 ![imagen](https://user-images.githubusercontent.com/63190654/206045052-a9ecfd45-a92c-4758-bf1d-3ab83b965e7a.png)
+
+- En esta URL vienen las opciones que se puede ejecutar con los motores modernos y que podemos hacer uso del DEBUG.
+https://github.com/adventuregamestudio/ags/blob/master/OPTIONS.md
+
+  ![imagen](https://user-images.githubusercontent.com/63190654/206053367-bfc54859-2aba-405a-9900-d527fb247700.png)
