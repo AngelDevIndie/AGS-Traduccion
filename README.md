@@ -12,3 +12,10 @@ Entre otras cosas vamos a explicar:
 - Cuando activo el modo debug, solo funciona el CTRL + D, para que se pueda teletransportar, sustituir el código debug en el .s.
 
 - Importar fuentes TTF al engine para intentar crear texto para los personajes. El 01 como fuente principal y el 02 como outline. Para ver si coge el outline bien.
+
+## LINKS
+https://vk.com/topic-17976818_41248486
+
+https://github.com/ManiacMansionMania
+
+https://www.adventuregamestudio.co.uk/wiki
