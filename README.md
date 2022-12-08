@@ -25,3 +25,7 @@ https://vk.com/topic-17976818_41248486
 https://github.com/ManiacMansionMania
 
 https://www.adventuregamestudio.co.uk/wiki
+
+https://adventuregamestudio.github.io/ags-manual/genindex.html -> Índice de comandos
+
+https://adventuregamestudio.github.io/ags-manual/index.html -> Manual
