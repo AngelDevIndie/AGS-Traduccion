@@ -6,6 +6,7 @@ Entre otras cosas vamos a explicar:
 - Fuentes (tamaños y formas)
 - Edición del texto en crudo cuando se usa %s.
 - Edición hexadecimal.
+- Modificar las GUIs. **(próximo a hacer)**
 
 # TO-DO
 - Cuando activo el modo debug, solo funciona el CTRL + D, para que se pueda teletransportar, sustituir el código debug en el .s.
