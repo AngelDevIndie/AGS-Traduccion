@@ -18,6 +18,8 @@ https://github.com/adm244/AGSUnpacker
 
 https://github.com/rofl0r/agsutils
 
+https://github.com/ags-archives/engines
+
 https://vk.com/topic-17976818_41248486
 
 https://github.com/ManiacMansionMania
