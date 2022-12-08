@@ -14,6 +14,10 @@ Entre otras cosas vamos a explicar:
 - Importar fuentes TTF al engine para intentar crear texto para los personajes. El 01 como fuente principal y el 02 como outline. Para ver si coge el outline bien.
 
 ## LINKS
+https://github.com/adm244/AGSUnpacker
+
+https://github.com/rofl0r/agsutils
+
 https://vk.com/topic-17976818_41248486
 
 https://github.com/ManiacMansionMania
