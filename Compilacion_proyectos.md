@@ -7,11 +7,11 @@
 
  1. Ir a la carpeta donde esté el *cmakelist.txt* y ejecutar:
 
-    cmake .
+> cmake .
 
  2. Se creará el makefile necesario para hacer la *build*. El siguiente paso es ejecutar:
 
-    make
+> make
 
  3. Y con esto ya se creará la build y podemos ejecutar.
 
