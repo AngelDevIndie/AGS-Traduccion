@@ -1,8 +1,7 @@
 ## Requisitos
 
- - Notepad ++
+ - Notepad ++ en modo ANSI
  - World Replace free
- - LibreOffice Calc o Excell
 
 ## Procedimiento
 
@@ -77,5 +76,8 @@ Quedará así:
 
 ![imagen](https://user-images.githubusercontent.com/63190654/210663497-ea92e1d1-fbca-4e10-970d-95b53db7d604.png)
 
+ 5. Ejecutamos el programa *"World Replace"*, y abrimos el archivo donde queremos aplicar el diccionario.
+
+![imagen](https://user-images.githubusercontent.com/63190654/210664032-33c996d3-c220-4a49-ac5a-abe19a936846.png)
 
 
