@@ -73,4 +73,9 @@ Quedará así:
     &1 Get me more coffee Roger.	Dame mas cafe Roger.
     &1 Filling your cup sir!	&1 ¡Llenando su taza, señor!
     
+ 4. Ahora guardamos el resultado para luego abrirlo con el programa que lo usará como diccionario. El cual debería quedar como se muestra abajo. Hemos partido de una plantilla.
+
+![imagen](https://user-images.githubusercontent.com/63190654/210663497-ea92e1d1-fbca-4e10-970d-95b53db7d604.png)
+
+
 
