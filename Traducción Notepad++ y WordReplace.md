@@ -52,3 +52,18 @@ Quedará así:
     Dame mas cafe Roger.
     &1 Filling your cup sir!
     &1 ¡Llenando su taza, señor!
+
+ 3.  En este paso vamos a terminar de crear el diccionario. Para ello juntaremos la frase en inglés junto con su traducción en español en la misma línea, pero separadas entre ellas con una tabulación. Para ello usamos Notepad++ haciendo una búsqueda de la cadena regular que se muestra abajo, y reemplazando el retorno de carro y nueva línea por un tabulador.
+Buscamos:
+
+>  \r\n(.*\r\n)
+
+Reemplazamos con:
+
+> \t\1
+
+Captura de pantalla:
+
+![imagen](https://user-images.githubusercontent.com/63190654/210662601-e16dc923-3551-433f-a0df-ce5d5737ca62.png)
+
+OJO!!! Desmarcar la casilla *"Todo el documento"*
