@@ -67,3 +67,10 @@ Captura de pantalla:
 ![imagen](https://user-images.githubusercontent.com/63190654/210662601-e16dc923-3551-433f-a0df-ce5d5737ca62.png)
 
 OJO!!! Desmarcar la casilla *"Todo el documento"*
+
+Quedará así:
+
+    &1 Get me more coffee Roger.	Dame mas cafe Roger.
+    &1 Filling your cup sir!	&1 ¡Llenando su taza, señor!
+    
+
