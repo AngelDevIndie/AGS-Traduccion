@@ -71,13 +71,23 @@ Quedará así:
 
     &1 Get me more coffee Roger.	Dame mas cafe Roger.
     &1 Filling your cup sir!	&1 ¡Llenando su taza, señor!
-    
- 4. Ahora guardamos el resultado para luego abrirlo con el programa que lo usará como diccionario. El cual debería quedar como se muestra abajo. Hemos partido de una plantilla.
+  
+ 4. Queda por sustituir algunos caracteres que el código objeto vienen un poco diferente. Estos son:
+
+ > ? por \?
+ 
+ > ' por \'
+
+ 5. Ahora guardamos el resultado para luego abrirlo con el programa que lo usará como diccionario. El cual debería quedar como se muestra abajo. Hemos partido de una plantilla.
 
 ![imagen](https://user-images.githubusercontent.com/63190654/210663497-ea92e1d1-fbca-4e10-970d-95b53db7d604.png)
 
- 5. Ejecutamos el programa *"World Replace"*, y abrimos el archivo donde queremos aplicar el diccionario.
+ 6. Ejecutamos el programa *"World Replace"*, y abrimos el archivo donde queremos aplicar el diccionario.
 
 ![imagen](https://user-images.githubusercontent.com/63190654/210664032-33c996d3-c220-4a49-ac5a-abe19a936846.png)
 
+Posteriormente le damos al botón *"Replace Many"* y abrimos el diccionario creado anteriormente.
 
+![imagen](https://user-images.githubusercontent.com/63190654/210664295-406c1765-be68-4671-bec0-da221a6bba24.png)
+
+Damos en *Replace All* y vemos como se sustituye todas las líneas que vaya encontrando. Ya solo queda grabar el resultado y ¡voilá!
