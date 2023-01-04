@@ -74,9 +74,9 @@ Quedará así:
   
  4. Queda por sustituir algunos caracteres que el código objeto vienen un poco diferente. Estos son:
 
- > ? por \?
+ > ? por \\?
  
- > ' por \'
+ > ' por \\'
 
  5. Ahora guardamos el resultado para luego abrirlo con el programa que lo usará como diccionario. El cual debería quedar como se muestra abajo. Hemos partido de una plantilla.
 
