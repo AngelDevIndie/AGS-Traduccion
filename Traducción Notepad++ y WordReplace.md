@@ -37,3 +37,18 @@ Quedará así:
     Dame mas cafe Roger.
     &1 Filling your cup sir!
     &1 ¡Llenando su taza, señor!
+
+ 2. Ahora toca buscar las líneas que están en blanco y borrar la línea superior y esa línea en blancon. Para ello usamos Notepad++ haciendo una búsqueda de la cadena regular que se muestra abajo, y reemplazando por el campo vacío.
+
+>  .*\r\n\r\n
+
+Captura de pantalla:
+
+![imagen](https://user-images.githubusercontent.com/63190654/210658384-5f93c3da-4a4c-4237-b502-26f97a35ef29.png)
+
+Quedará así:
+
+    &1 Get me more coffee Roger.
+    Dame mas cafe Roger.
+    &1 Filling your cup sir!
+    &1 ¡Llenando su taza, señor!
