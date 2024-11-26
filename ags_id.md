@@ -1,0 +1,4 @@
+- SCRIPT para extraer el GameID y el GameName del juego en AGS 3.6
+- Genera un archivo de salida translation.trs listo para añadir las líneas a traducir
+- v.0.2 by Kurt (23-11-24)
+- Probado en AGS 3.6.1.xx
