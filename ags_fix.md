@@ -1,0 +1,5 @@
+- ags_fix sirve para modificar el archivo game28.dta para versiones de AGS 3.6.14 a AGS 3.6.1.30, y que funcione AGSUnpacker.
+- Se crea un game28.dta funcional, y una vez usado AGSUnpacker se debe volver a renombrar el game28.dta.bak
+- Se sabe que AGSUnpacker v.0.7-110123 extrae los assets de cualquier juego, pero la creación del TRS y del GameID no funciona a partir de AGS 3.6.14 debido a que hay nuevos bloques como "v361_objnames" 
+- v.0.1 by Kurt (23-11-24)
+- Probado en AGS 3.6.1.14 a AGS 3.6.1.30
