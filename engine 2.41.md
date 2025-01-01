@@ -3,6 +3,6 @@ Ese archivo se vuelve a compilar con el editor. Y el tra se decompila con el ags
 Cuando se vuelva a quere compilar con el AGSUNPACKER quizá hay que quitar la línea encoding para que funcione el juego.
 
 Buscando la cadena de hexadecimal de un juego como ejemplo (A Day in the Future) he encontrado la cadena hexadecimal que
-corresponde con el ID. Adjunto captura. El orden de bytes es little endian.
+corresponde con el ID en el archivo ac2game.dta. Adjunto captura. El orden de bytes es little endian.
 
 ![imagen](https://github.com/user-attachments/assets/d13036df-7ca8-4d68-a74f-4d72aa48542a)
